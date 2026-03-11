@@ -57,4 +57,32 @@ CREATE TABLE IF NOT EXISTS public.abandoned_mines
 
 
 
+CREATE TABLE IF NOT EXISTS public.atlas_map
+(
+    project_code varchar,
+    project_name text,
+    site_code varchar,
+    site_name text,
+    site_short text,
+    site_type text,
+    site_subt text,
+    site_stage text,
+    site_com_g text,
+    site_tcg text,
+    confid text,
+    latitude numeric,
+    longitude numeric,
+    mga_zone integer,
+    easting numeric,
+    northing numeric,
+    mx_map text,
+    atl_ml_n text,
+    atl_ml_c text,
+    atl_ml_ca text,
+    atl_a_flag text
+);
+
+
+
+
 
