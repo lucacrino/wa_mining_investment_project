@@ -1,5 +1,5 @@
-# 🪨 wa_mining_investment_project
-Western Australia mining sector analytics built with PostgreSQL and PowerBI
+# 🪨 WA Mining Investment Project
+Western Australia mining sector analytics built with PostgreSQL and PowerBI. Official data from [Text to display](https://minedex.dmirs.wa.gov.au/Web/home)
 
 
 ## 📍 Project Overview
