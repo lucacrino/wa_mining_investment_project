@@ -52,5 +52,9 @@ CREATE TABLE IF NOT EXISTS public.abandoned_mines
     point_conf text,
     web_link text,
     CONSTRAINT abandoned_mines_pkey PRIMARY KEY (site_code)
-)
+);
+
+
+
+
 
