@@ -24,6 +24,18 @@ Each dashboard targets a distinct question:
 
 ## 🎯 Objectives
 
+- Providing a geographic and status-based overview of every recorded mine site and deposit in WA. Designed for
+regulators and policy-makers who need to track activity levels, identify idle assets, and monitor new project
+proposals flowing through the system.
+
+- Deep-diving into MINEDEX resource estimates, revealing where the highest-grade and largest undeveloped
+deposits sit, how resource confidence levels compare across commodities, and which regions offer the best
+exploration upside. Built for investors, geologists and strategic planners.
+
+- Tracking actual production output across active WA mines over time — enabling trend analysis, output variance
+flagging, and commodity-level performance benchmarking. Essential for operations managers, royalty forecasters,
+and corporate strategists.
+
 
 ## 🗂️ Data Model
 
