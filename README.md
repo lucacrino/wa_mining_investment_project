@@ -18,7 +18,7 @@ Each dashboard targets a distinct question:
       
    **3. How are operating projects performing?**
       
-  Together they equip government analysts, investors, and corporate strategists with clear, evidence-based answers.
+  Together they equip government analysts, investors and corporate strategists with clear, evidence-based answers.
 
 
 
