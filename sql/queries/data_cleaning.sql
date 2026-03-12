@@ -13,3 +13,10 @@ set development_region = left(development_region, position(',' in development_re
 update operating_mines
 set development_region = left(development_region, position(',' in development_region) - 1) || right(development_region, length(development_region) - position(',' in development_region))
 where development_region <> 'METRO'
+
+
+
+
+--Table: operating_mines
+--Objective: district_name
+
