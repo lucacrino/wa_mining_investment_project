@@ -1,5 +1,5 @@
 # ![Australia Flag](https://flagcdn.com/32x24/au.png) WA Mining Investment Project
-Western Australia mining sector analytics built with PostgreSQL and PowerBI.
+Western Australia mining sector overview built with PostgreSQL and PowerBI.
 
 Official Government data from [MINEDEX](https://minedex.dmirs.wa.gov.au/Web/home)
 
